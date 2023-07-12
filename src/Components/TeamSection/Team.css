@@ -1,0 +1,18 @@
+.team-heading{
+    font-weight: bolder;
+    border-bottom: 4px solid #5ca9fb;
+    width: 350px;
+    margin-left: 570px;
+    margin-top: 50px;
+}
+
+#Team-Main{
+    text-align: center;
+    margin-top: 90px;
+}
+
+#team-members{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}

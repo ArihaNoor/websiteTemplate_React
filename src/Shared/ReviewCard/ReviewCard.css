@@ -1,0 +1,15 @@
+#rCard{
+    display: flex;
+    width: 350px;
+}
+.rImage img{
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.rLeft{
+    font-style: italic;
+    font-size: 15px;
+}
+.rLeft p{
+    color: rgb(100, 98, 98);
+}

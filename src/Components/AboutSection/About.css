@@ -1,0 +1,34 @@
+.main-div{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+.about-content{
+    margin-left: 100px;
+}
+.about-content p{
+    margin-top: 40px;
+}
+.about-content h3{
+    margin-top: 40px;
+}
+.about-content h1{
+    font-weight: bolder;
+    border-bottom: 4px solid #5ca9fb;
+    width: 220px;
+    color: black;
+}
+.bullets{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.bullets .left-list .right-list{
+    list-style-image: url('https://cdn-icons-png.flaticon.com/128/1828/1828640.png');
+}
+
+.img-about img{
+    height: 400px;
+    width: 550px;
+}

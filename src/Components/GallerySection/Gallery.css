@@ -1,0 +1,19 @@
+.gallery-heading{
+    font-weight: bolder;
+    border-bottom: 4px solid #5ca9fb;
+    width: 80px;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+.gallery-main{
+    text-align: center;
+}
+.gallery-main p{
+    margin-top: 20px;
+}
+#gallery-images{
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+}

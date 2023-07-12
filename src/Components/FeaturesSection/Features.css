@@ -1,0 +1,17 @@
+.features-heading{
+    font-weight: bolder;
+    border-bottom: 4px solid #5ca9fb;
+    width: 80px;
+    margin-left: 650px;
+}
+#cards{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+#features{
+    text-align: center;
+    background-color: gainsboro;
+}

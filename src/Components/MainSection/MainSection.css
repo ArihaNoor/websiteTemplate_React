@@ -1,0 +1,38 @@
+.main-section{
+    margin-top: 30px;
+    background-image:
+    linear-gradient(to bottom, rgba(50, 51, 54, 0.52), rgba(52, 46, 50, 0.73)),
+    url('https://cyber-nexis-tech.netlify.app/img/intro-bg.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.content{
+   margin-left: 220px;
+   padding-top: 200px;
+   text-align: center;
+}
+.content h1{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+}
+
+.content h1 span{
+    color: #5ca9fb;
+}
+.content p{
+    color: white;
+    font-size: 20px;
+}
+.btn{
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    width: 200px;
+    font-size: 20px;
+    background-color: #5ca9fb;
+}

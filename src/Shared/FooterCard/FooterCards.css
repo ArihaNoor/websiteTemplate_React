@@ -1,0 +1,14 @@
+#footer-card{
+    color: white;
+    margin-top: 20px;
+}
+.card-top{
+    display: flex;
+}
+.card-top img{
+    margin-right: 10px;
+}
+
+#footer-card p{
+    font-size: 15px;
+}
